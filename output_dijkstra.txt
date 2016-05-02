@@ -1,0 +1,220 @@
+---------------------------------- DIJKSTRA BEGINS ----------------------------------
+starting node s = 424
+destination node t = 926
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+node #424 and a starting distance 0 pushed into the queue
+-------------------------------- DIJKSTRA'S RESULTS --------------------------------
+reached final destination t: 926
+the total path length from s to t: 6973.58595157703 meters
+nodes visited: 725
+------------------------------------------------------------------------------------
+
+---------------------------------- DIJKSTRA BEGINS ----------------------------------
+starting node s = 772
+destination node t = 531
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+node #772 and a starting distance 0 pushed into the queue
+-------------------------------- DIJKSTRA'S RESULTS --------------------------------
+reached final destination t: 531
+the total path length from s to t: 7043.76748485369 meters
+nodes visited: 473
+------------------------------------------------------------------------------------
+
+---------------------------------- DIJKSTRA BEGINS ----------------------------------
+starting node s = 306
+destination node t = 10
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+node #306 and a starting distance 0 pushed into the queue
+-------------------------------- DIJKSTRA'S RESULTS --------------------------------
+reached final destination t: 10
+the total path length from s to t: 6526.10441851927 meters
+nodes visited: 679
+------------------------------------------------------------------------------------
+
+---------------------------------- DIJKSTRA BEGINS ----------------------------------
+starting node s = 634
+destination node t = 27
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+node #634 and a starting distance 0 pushed into the queue
+-------------------------------- DIJKSTRA'S RESULTS --------------------------------
+reached final destination t: 27
+the total path length from s to t: 808.795837189619 meters
+nodes visited: 17
+------------------------------------------------------------------------------------
+
+---------------------------------- DIJKSTRA BEGINS ----------------------------------
+starting node s = 224
+destination node t = 592
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+node #224 and a starting distance 0 pushed into the queue
+-------------------------------- DIJKSTRA'S RESULTS --------------------------------
+reached final destination t: 592
+the total path length from s to t: 2581.43214344506 meters
+nodes visited: 189
+------------------------------------------------------------------------------------
+
+---------------------------------- DIJKSTRA BEGINS ----------------------------------
+starting node s = 856
+destination node t = 38
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+node #856 and a starting distance 0 pushed into the queue
+-------------------------------- DIJKSTRA'S RESULTS --------------------------------
+reached final destination t: 38
+the total path length from s to t: 5757.87968403567 meters
+nodes visited: 632
+------------------------------------------------------------------------------------
+
+---------------------------------- DIJKSTRA BEGINS ----------------------------------
+starting node s = 841
+destination node t = 516
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+node #841 and a starting distance 0 pushed into the queue
+-------------------------------- DIJKSTRA'S RESULTS --------------------------------
+reached final destination t: 516
+the total path length from s to t: 986.191807110233 meters
+nodes visited: 26
+------------------------------------------------------------------------------------
+
+---------------------------------- DIJKSTRA BEGINS ----------------------------------
+starting node s = 581
+destination node t = 151
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+node #581 and a starting distance 0 pushed into the queue
+-------------------------------- DIJKSTRA'S RESULTS --------------------------------
+reached final destination t: 151
+the total path length from s to t: 1216.79682663161 meters
+nodes visited: 140
+------------------------------------------------------------------------------------
+
+---------------------------------- DIJKSTRA BEGINS ----------------------------------
+starting node s = 390
+destination node t = 756
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+node #390 and a starting distance 0 pushed into the queue
+-------------------------------- DIJKSTRA'S RESULTS --------------------------------
+reached final destination t: 756
+the total path length from s to t: 2697.06401435215 meters
+nodes visited: 370
+------------------------------------------------------------------------------------
+
+---------------------------------- DIJKSTRA BEGINS ----------------------------------
+starting node s = 510
+destination node t = 963
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+node #510 and a starting distance 0 pushed into the queue
+-------------------------------- DIJKSTRA'S RESULTS --------------------------------
+reached final destination t: 963
+the total path length from s to t: 5625.7200018084 meters
+nodes visited: 526
+------------------------------------------------------------------------------------
+
+---------------------------------- DIJKSTRA BEGINS ----------------------------------
+starting node s = 503
+destination node t = 935
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+node #503 and a starting distance 0 pushed into the queue
+-------------------------------- DIJKSTRA'S RESULTS --------------------------------
+reached final destination t: 935
+the total path length from s to t: 4490.89397464985 meters
+nodes visited: 517
+------------------------------------------------------------------------------------
+
+---------------------------------- DIJKSTRA BEGINS ----------------------------------
+starting node s = 191
+destination node t = 465
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+node #191 and a starting distance 0 pushed into the queue
+-------------------------------- DIJKSTRA'S RESULTS --------------------------------
+reached final destination t: 465
+the total path length from s to t: 2648.96469044294 meters
+nodes visited: 377
+------------------------------------------------------------------------------------
+
+---------------------------------- DIJKSTRA BEGINS ----------------------------------
+starting node s = 701
+destination node t = 232
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+node #701 and a starting distance 0 pushed into the queue
+-------------------------------- DIJKSTRA'S RESULTS --------------------------------
+reached final destination t: 232
+the total path length from s to t: 6726.49473334379 meters
+nodes visited: 877
+------------------------------------------------------------------------------------
+
+---------------------------------- DIJKSTRA BEGINS ----------------------------------
+starting node s = 656
+destination node t = 609
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+node #656 and a starting distance 0 pushed into the queue
+-------------------------------- DIJKSTRA'S RESULTS --------------------------------
+reached final destination t: 609
+the total path length from s to t: 6016.53800245414 meters
+nodes visited: 743
+------------------------------------------------------------------------------------
+
+---------------------------------- DIJKSTRA BEGINS ----------------------------------
+starting node s = 333
+destination node t = 162
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+node #333 and a starting distance 0 pushed into the queue
+-------------------------------- DIJKSTRA'S RESULTS --------------------------------
+reached final destination t: 162
+the total path length from s to t: 6835.24091816705 meters
+nodes visited: 800
+------------------------------------------------------------------------------------
+
+---------------------------------- DIJKSTRA BEGINS ----------------------------------
+starting node s = 808
+destination node t = 128
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+node #808 and a starting distance 0 pushed into the queue
+-------------------------------- DIJKSTRA'S RESULTS --------------------------------
+reached final destination t: 128
+the total path length from s to t: 5790.13470706742 meters
+nodes visited: 803
+------------------------------------------------------------------------------------
+
+---------------------------------- DIJKSTRA BEGINS ----------------------------------
+starting node s = 780
+destination node t = 978
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+node #780 and a starting distance 0 pushed into the queue
+-------------------------------- DIJKSTRA'S RESULTS --------------------------------
+reached final destination t: 978
+the total path length from s to t: 2758.98405019857 meters
+nodes visited: 114
+------------------------------------------------------------------------------------
+
+---------------------------------- DIJKSTRA BEGINS ----------------------------------
+starting node s = 92
+destination node t = 537
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+node #92 and a starting distance 0 pushed into the queue
+-------------------------------- DIJKSTRA'S RESULTS --------------------------------
+reached final destination t: 537
+the total path length from s to t: 7917.27805212256 meters
+nodes visited: 952
+------------------------------------------------------------------------------------
+
+---------------------------------- DIJKSTRA BEGINS ----------------------------------
+starting node s = 312
+destination node t = 151
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+node #312 and a starting distance 0 pushed into the queue
+-------------------------------- DIJKSTRA'S RESULTS --------------------------------
+reached final destination t: 151
+the total path length from s to t: 7404.10578869918 meters
+nodes visited: 749
+------------------------------------------------------------------------------------
+
+---------------------------------- DIJKSTRA BEGINS ----------------------------------
+starting node s = 772
+destination node t = 745
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+node #772 and a starting distance 0 pushed into the queue
+-------------------------------- DIJKSTRA'S RESULTS --------------------------------
+reached final destination t: 745
+the total path length from s to t: 7532.93422038949 meters
+nodes visited: 551
+------------------------------------------------------------------------------------
+

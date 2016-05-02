@@ -1,0 +1,5 @@
+Dijkstra visited an average of 513 nodes.
+A* visited an average of 183.45 nodes.
+A* with landmarks visited an average of 259.3 nodes.
+
+Please see the other output files for the shortest paths and number of nodes visited after each randomized run of the algorithms.

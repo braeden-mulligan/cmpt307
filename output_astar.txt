@@ -1,0 +1,220 @@
+------------------------------------- A* BEGINS -------------------------------------
+starting node s = 424
+destination node t = 926
+the initial estimate from s to t is 5425.65180749494
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+-------------------------------------------------------------------------------------
+-------------------------------- A*'S RESULTS --------------------------------
+the total path distance from s: 6973.58595157703 meters
+nodes visited: 343
+------------------------------------------------------------------------------
+
+------------------------------------- A* BEGINS -------------------------------------
+starting node s = 772
+destination node t = 531
+the initial estimate from s to t is 6610.46081720254
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+-------------------------------------------------------------------------------------
+-------------------------------- A*'S RESULTS --------------------------------
+the total path distance from s: 7043.76748485369 meters
+nodes visited: 79
+------------------------------------------------------------------------------
+
+------------------------------------- A* BEGINS -------------------------------------
+starting node s = 306
+destination node t = 10
+the initial estimate from s to t is 4950.44800237402
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+-------------------------------------------------------------------------------------
+-------------------------------- A*'S RESULTS --------------------------------
+the total path distance from s: 6526.10441851927 meters
+nodes visited: 345
+------------------------------------------------------------------------------
+
+------------------------------------- A* BEGINS -------------------------------------
+starting node s = 634
+destination node t = 27
+the initial estimate from s to t is 655.589653927952
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+-------------------------------------------------------------------------------------
+-------------------------------- A*'S RESULTS --------------------------------
+the total path distance from s: 808.795837189619 meters
+nodes visited: 8
+------------------------------------------------------------------------------
+
+------------------------------------- A* BEGINS -------------------------------------
+starting node s = 224
+destination node t = 592
+the initial estimate from s to t is 1860.24732568533
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+-------------------------------------------------------------------------------------
+-------------------------------- A*'S RESULTS --------------------------------
+the total path distance from s: 2581.43214344506 meters
+nodes visited: 53
+------------------------------------------------------------------------------
+
+------------------------------------- A* BEGINS -------------------------------------
+starting node s = 856
+destination node t = 38
+the initial estimate from s to t is 5023.99315642017
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+-------------------------------------------------------------------------------------
+-------------------------------- A*'S RESULTS --------------------------------
+the total path distance from s: 5757.87968403567 meters
+nodes visited: 157
+------------------------------------------------------------------------------
+
+------------------------------------- A* BEGINS -------------------------------------
+starting node s = 841
+destination node t = 516
+the initial estimate from s to t is 718.750923076525
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+-------------------------------------------------------------------------------------
+-------------------------------- A*'S RESULTS --------------------------------
+the total path distance from s: 986.191807110233 meters
+nodes visited: 12
+------------------------------------------------------------------------------
+
+------------------------------------- A* BEGINS -------------------------------------
+starting node s = 581
+destination node t = 151
+the initial estimate from s to t is 875.077105415014
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+-------------------------------------------------------------------------------------
+-------------------------------- A*'S RESULTS --------------------------------
+the total path distance from s: 1216.79682663161 meters
+nodes visited: 26
+------------------------------------------------------------------------------
+
+------------------------------------- A* BEGINS -------------------------------------
+starting node s = 390
+destination node t = 756
+the initial estimate from s to t is 1841.83836572083
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+-------------------------------------------------------------------------------------
+-------------------------------- A*'S RESULTS --------------------------------
+the total path distance from s: 2697.06401435215 meters
+nodes visited: 94
+------------------------------------------------------------------------------
+
+------------------------------------- A* BEGINS -------------------------------------
+starting node s = 510
+destination node t = 963
+the initial estimate from s to t is 4147.85159162003
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+-------------------------------------------------------------------------------------
+-------------------------------- A*'S RESULTS --------------------------------
+the total path distance from s: 5625.7200018084 meters
+nodes visited: 243
+------------------------------------------------------------------------------
+
+------------------------------------- A* BEGINS -------------------------------------
+starting node s = 503
+destination node t = 935
+the initial estimate from s to t is 3870.20466997692
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+-------------------------------------------------------------------------------------
+-------------------------------- A*'S RESULTS --------------------------------
+the total path distance from s: 4490.89397464985 meters
+nodes visited: 63
+------------------------------------------------------------------------------
+
+------------------------------------- A* BEGINS -------------------------------------
+starting node s = 191
+destination node t = 465
+the initial estimate from s to t is 2443.94537762965
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+-------------------------------------------------------------------------------------
+-------------------------------- A*'S RESULTS --------------------------------
+the total path distance from s: 2648.96469044294 meters
+nodes visited: 34
+------------------------------------------------------------------------------
+
+------------------------------------- A* BEGINS -------------------------------------
+starting node s = 701
+destination node t = 232
+the initial estimate from s to t is 3184.12692381661
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+-------------------------------------------------------------------------------------
+-------------------------------- A*'S RESULTS --------------------------------
+the total path distance from s: 6726.49473334379 meters
+nodes visited: 96
+------------------------------------------------------------------------------
+
+------------------------------------- A* BEGINS -------------------------------------
+starting node s = 656
+destination node t = 609
+the initial estimate from s to t is 4045.4529647287
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+-------------------------------------------------------------------------------------
+-------------------------------- A*'S RESULTS --------------------------------
+the total path distance from s: 6016.53800245414 meters
+nodes visited: 78
+------------------------------------------------------------------------------
+
+------------------------------------- A* BEGINS -------------------------------------
+starting node s = 333
+destination node t = 162
+the initial estimate from s to t is 5474.03171094198
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+-------------------------------------------------------------------------------------
+-------------------------------- A*'S RESULTS --------------------------------
+the total path distance from s: 6835.24091816705 meters
+nodes visited: 312
+------------------------------------------------------------------------------
+
+------------------------------------- A* BEGINS -------------------------------------
+starting node s = 808
+destination node t = 128
+the initial estimate from s to t is 2368.19518838084
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+-------------------------------------------------------------------------------------
+-------------------------------- A*'S RESULTS --------------------------------
+the total path distance from s: 5790.13470706742 meters
+nodes visited: 390
+------------------------------------------------------------------------------
+
+------------------------------------- A* BEGINS -------------------------------------
+starting node s = 780
+destination node t = 978
+the initial estimate from s to t is 724.892628986846
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+-------------------------------------------------------------------------------------
+-------------------------------- A*'S RESULTS --------------------------------
+the total path distance from s: 2758.98405019857 meters
+nodes visited: 68
+------------------------------------------------------------------------------
+
+------------------------------------- A* BEGINS -------------------------------------
+starting node s = 92
+destination node t = 537
+the initial estimate from s to t is 1647.57016141835
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+-------------------------------------------------------------------------------------
+-------------------------------- A*'S RESULTS --------------------------------
+the total path distance from s: 7917.27805212256 meters
+nodes visited: 579
+------------------------------------------------------------------------------
+
+------------------------------------- A* BEGINS -------------------------------------
+starting node s = 312
+destination node t = 151
+the initial estimate from s to t is 5654.56727570512
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+-------------------------------------------------------------------------------------
+-------------------------------- A*'S RESULTS --------------------------------
+the total path distance from s: 7404.10578869918 meters
+nodes visited: 425
+------------------------------------------------------------------------------
+
+------------------------------------- A* BEGINS -------------------------------------
+starting node s = 772
+destination node t = 745
+the initial estimate from s to t is 6212.34222998531
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+-------------------------------------------------------------------------------------
+-------------------------------- A*'S RESULTS --------------------------------
+the total path distance from s: 7532.93422038949 meters
+nodes visited: 264
+------------------------------------------------------------------------------
+

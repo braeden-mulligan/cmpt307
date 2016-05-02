@@ -1,0 +1,220 @@
+--------------------------------- A* LANDMARK BEGINS --------------------------------
+starting node s = 424
+destination node t = 926
+the initial estimate from s to t is 2999.96609728077
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+-------------------------------------------------------------------------------------
+-------------------------------- A* LANDMARK'S RESULTS --------------------------------
+the total path distance from s: 6973.58595157703 meters
+nodes visited: 447
+---------------------------------------------------------------------------------------
+
+--------------------------------- A* LANDMARK BEGINS --------------------------------
+starting node s = 772
+destination node t = 531
+the initial estimate from s to t is 6445.11254653833
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+-------------------------------------------------------------------------------------
+-------------------------------- A* LANDMARK'S RESULTS --------------------------------
+the total path distance from s: 7043.76748485369 meters
+nodes visited: 106
+---------------------------------------------------------------------------------------
+
+--------------------------------- A* LANDMARK BEGINS --------------------------------
+starting node s = 306
+destination node t = 10
+the initial estimate from s to t is 1599.78794607796
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+-------------------------------------------------------------------------------------
+-------------------------------- A* LANDMARK'S RESULTS --------------------------------
+the total path distance from s: 6526.10441851927 meters
+nodes visited: 437
+---------------------------------------------------------------------------------------
+
+--------------------------------- A* LANDMARK BEGINS --------------------------------
+starting node s = 634
+destination node t = 27
+the initial estimate from s to t is 242.350301688396
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+-------------------------------------------------------------------------------------
+-------------------------------- A* LANDMARK'S RESULTS --------------------------------
+the total path distance from s: 808.795837189619 meters
+nodes visited: 11
+---------------------------------------------------------------------------------------
+
+--------------------------------- A* LANDMARK BEGINS --------------------------------
+starting node s = 224
+destination node t = 592
+the initial estimate from s to t is 1336.43155420598
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+-------------------------------------------------------------------------------------
+-------------------------------- A* LANDMARK'S RESULTS --------------------------------
+the total path distance from s: 2581.43214344506 meters
+nodes visited: 119
+---------------------------------------------------------------------------------------
+
+--------------------------------- A* LANDMARK BEGINS --------------------------------
+starting node s = 856
+destination node t = 38
+the initial estimate from s to t is 3934.28014598804
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+-------------------------------------------------------------------------------------
+-------------------------------- A* LANDMARK'S RESULTS --------------------------------
+the total path distance from s: 5757.87968403567 meters
+nodes visited: 276
+---------------------------------------------------------------------------------------
+
+--------------------------------- A* LANDMARK BEGINS --------------------------------
+starting node s = 841
+destination node t = 516
+the initial estimate from s to t is 582.700383711213
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+-------------------------------------------------------------------------------------
+-------------------------------- A* LANDMARK'S RESULTS --------------------------------
+the total path distance from s: 986.191807110233 meters
+nodes visited: 15
+---------------------------------------------------------------------------------------
+
+--------------------------------- A* LANDMARK BEGINS --------------------------------
+starting node s = 581
+destination node t = 151
+the initial estimate from s to t is 762.922297396879
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+-------------------------------------------------------------------------------------
+-------------------------------- A* LANDMARK'S RESULTS --------------------------------
+the total path distance from s: 1216.79682663161 meters
+nodes visited: 40
+---------------------------------------------------------------------------------------
+
+--------------------------------- A* LANDMARK BEGINS --------------------------------
+starting node s = 390
+destination node t = 756
+the initial estimate from s to t is 873.084506675814
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+-------------------------------------------------------------------------------------
+-------------------------------- A* LANDMARK'S RESULTS --------------------------------
+the total path distance from s: 2697.06401435215 meters
+nodes visited: 149
+---------------------------------------------------------------------------------------
+
+--------------------------------- A* LANDMARK BEGINS --------------------------------
+starting node s = 510
+destination node t = 963
+the initial estimate from s to t is 4144.84038228973
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+-------------------------------------------------------------------------------------
+-------------------------------- A* LANDMARK'S RESULTS --------------------------------
+the total path distance from s: 5625.7200018084 meters
+nodes visited: 248
+---------------------------------------------------------------------------------------
+
+--------------------------------- A* LANDMARK BEGINS --------------------------------
+starting node s = 503
+destination node t = 935
+the initial estimate from s to t is 3647.47527683605
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+-------------------------------------------------------------------------------------
+-------------------------------- A* LANDMARK'S RESULTS --------------------------------
+the total path distance from s: 4490.89397464985 meters
+nodes visited: 91
+---------------------------------------------------------------------------------------
+
+--------------------------------- A* LANDMARK BEGINS --------------------------------
+starting node s = 191
+destination node t = 465
+the initial estimate from s to t is 419.722036154055
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+-------------------------------------------------------------------------------------
+-------------------------------- A* LANDMARK'S RESULTS --------------------------------
+the total path distance from s: 2648.96469044294 meters
+nodes visited: 195
+---------------------------------------------------------------------------------------
+
+--------------------------------- A* LANDMARK BEGINS --------------------------------
+starting node s = 701
+destination node t = 232
+the initial estimate from s to t is 2049.28026404067
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+-------------------------------------------------------------------------------------
+-------------------------------- A* LANDMARK'S RESULTS --------------------------------
+the total path distance from s: 6726.49473334379 meters
+nodes visited: 119
+---------------------------------------------------------------------------------------
+
+--------------------------------- A* LANDMARK BEGINS --------------------------------
+starting node s = 656
+destination node t = 609
+the initial estimate from s to t is 2611.3909872939
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+-------------------------------------------------------------------------------------
+-------------------------------- A* LANDMARK'S RESULTS --------------------------------
+the total path distance from s: 6016.53800245414 meters
+nodes visited: 228
+---------------------------------------------------------------------------------------
+
+--------------------------------- A* LANDMARK BEGINS --------------------------------
+starting node s = 333
+destination node t = 162
+the initial estimate from s to t is 4869.1265291539
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+-------------------------------------------------------------------------------------
+-------------------------------- A* LANDMARK'S RESULTS --------------------------------
+the total path distance from s: 6835.24091816705 meters
+nodes visited: 404
+---------------------------------------------------------------------------------------
+
+--------------------------------- A* LANDMARK BEGINS --------------------------------
+starting node s = 808
+destination node t = 128
+the initial estimate from s to t is 1153.11862199719
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+-------------------------------------------------------------------------------------
+-------------------------------- A* LANDMARK'S RESULTS --------------------------------
+the total path distance from s: 5790.13470706742 meters
+nodes visited: 514
+---------------------------------------------------------------------------------------
+
+--------------------------------- A* LANDMARK BEGINS --------------------------------
+starting node s = 780
+destination node t = 978
+the initial estimate from s to t is 550.277615738372
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+-------------------------------------------------------------------------------------
+-------------------------------- A* LANDMARK'S RESULTS --------------------------------
+the total path distance from s: 2758.98405019857 meters
+nodes visited: 69
+---------------------------------------------------------------------------------------
+
+--------------------------------- A* LANDMARK BEGINS --------------------------------
+starting node s = 92
+destination node t = 537
+the initial estimate from s to t is 1556.21107010185
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+-------------------------------------------------------------------------------------
+-------------------------------- A* LANDMARK'S RESULTS --------------------------------
+the total path distance from s: 7917.27805212256 meters
+nodes visited: 782
+---------------------------------------------------------------------------------------
+
+--------------------------------- A* LANDMARK BEGINS --------------------------------
+starting node s = 312
+destination node t = 151
+the initial estimate from s to t is 3831.45282684412
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+-------------------------------------------------------------------------------------
+-------------------------------- A* LANDMARK'S RESULTS --------------------------------
+the total path distance from s: 7404.10578869918 meters
+nodes visited: 539
+---------------------------------------------------------------------------------------
+
+--------------------------------- A* LANDMARK BEGINS --------------------------------
+starting node s = 772
+destination node t = 745
+the initial estimate from s to t is 4758.57111815287
+Please note that all nodes have been offset by 1 (node range is not 1-1000 but 0-999)
+-------------------------------------------------------------------------------------
+-------------------------------- A* LANDMARK'S RESULTS --------------------------------
+the total path distance from s: 7532.93422038949 meters
+nodes visited: 397
+---------------------------------------------------------------------------------------
+

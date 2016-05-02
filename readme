@@ -1,0 +1,22 @@
+CMPT 307, Summer 2015
+Project part B
+Byron Chiang 2*******4
+Braeden Mulligan 3*******9
+
+The directory containing this file should include a C++ source code file "dijkstra.cpp".
+The source code contains a C++ implementation of Dijkstra's Shortest Path along with two modifications A*, and A* with landmarks.
+It can be compiled using the command "g++ dijkstra.cpp".
+
+The resulting executable requires only an input file called "graph1000.txt" and will output five new files.
+"output_graph.txt" is only used to verify that a graph has been properly read and can be ignored.
+
+Each shortest path algorithm will output to a corresponding file "output_<algorithm_name>.txt" of which there should be three.
+They can be used to view the number of nodes visited and the total cost of the path through those nodes for each time the algorithm was run.
+
+The final file to consider is "output_comparison.txt".
+This file contains the average path lengths resulting from all the runs of the algorithms.
+The relative efficiency of each algorithm can easily be seen by the difference between the path length averages.
+Lower values indicate greater savings on nodes visited.
+
+The directory with this readme may already contain an executable and outputs from a sample run.
+They can be safely removed or overwritten.
